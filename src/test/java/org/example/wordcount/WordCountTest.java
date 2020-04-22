@@ -1,5 +1,6 @@
-package org.example;
+package org.example.wordcount;
 
+import org.example.wordcount.WordCount;
 import org.hamcrest.CoreMatchers;
 import org.hamcrest.MatcherAssert;
 import org.junit.Test;

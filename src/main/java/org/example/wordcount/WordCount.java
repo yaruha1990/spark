@@ -1,4 +1,4 @@
-package org.example;
+package org.example.wordcount;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.SparkContext;
